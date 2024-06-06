@@ -23,3 +23,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+# Array
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0204-count-primes) |
+# Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0204-count-primes) |
+# Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0204-count-primes) |
+# Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0204-count-primes) |
