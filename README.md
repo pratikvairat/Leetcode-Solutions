@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [1137-height-checker](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1137-height-checker) |
 # Math
 |  |
 | ------- |
@@ -39,3 +40,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0204-count-primes) |
+# Sorting
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1137-height-checker) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1137-height-checker) |
