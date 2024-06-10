@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 # Enumeration
 |  |
 | ------- |
