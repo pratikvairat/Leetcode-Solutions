@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [0909-stone-game](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0909-stone-game) |
 | [1137-height-checker](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [0909-stone-game](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0909-stone-game) |
 | [2481-strictly-palindromic-number](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 # Enumeration
@@ -70,3 +72,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0909-stone-game) |
+# Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0909-stone-game) |
