@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0204-count-primes](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0909-stone-game](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0909-stone-game) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -52,12 +53,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting Sort
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
 # Database
@@ -67,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Brainteaser
 |  |
