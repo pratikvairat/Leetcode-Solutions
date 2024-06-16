@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0204-count-primes](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0274-h-index](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0274-h-index) |
+| [0330-patching-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0330-patching-array) |
 | [0909-stone-game](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0909-stone-game) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1137-height-checker) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0330-patching-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Brainteaser
