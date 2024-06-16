@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0645-set-mismatch](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1217-relative-sort-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
 # Queue
 |  |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0274-h-index](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0330-patching-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0330-patching-array) |
+| [0645-set-mismatch](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0909-stone-game](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0909-stone-game) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1137-height-checker) |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0274-h-index](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0274-h-index) |
+| [0645-set-mismatch](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
@@ -91,3 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0909-stone-game) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0645-set-mismatch) |
