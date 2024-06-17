@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0344-reverse-string](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0633-sum-of-square-numbers](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [2481-strictly-palindromic-number](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
 # String
 |  |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [0633-sum-of-square-numbers](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0909-stone-game](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0909-stone-game) |
 | [2481-strictly-palindromic-number](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -110,3 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
