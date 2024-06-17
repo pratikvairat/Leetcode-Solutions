@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-relative-sort-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2428-equal-row-and-column-pairs](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
+| [3429-special-array-i](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3429-special-array-i) |
 # Math
 |  |
 | ------- |
