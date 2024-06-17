@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1205-defanging-an-ip-address](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1205-defanging-an-ip-address) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 # Hash Table
 |  |
 | ------- |
@@ -108,3 +109,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
