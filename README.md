@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [0365-water-and-jug-problem](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0633-sum-of-square-numbers](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0909-stone-game](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0909-stone-game) |
 | [2481-strictly-palindromic-number](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
@@ -135,7 +136,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0365-water-and-jug-problem](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0365-water-and-jug-problem) |
 # Binary Tree
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0365-water-and-jug-problem) |
