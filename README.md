@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -122,3 +123,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
+# Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+# Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+# Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+# Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
