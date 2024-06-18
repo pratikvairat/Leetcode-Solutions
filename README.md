@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0120-triangle](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0204-count-primes](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0274-h-index](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0330-patching-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0330-patching-array) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0357-count-numbers-with-unique-digits](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0909-stone-game](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0909-stone-game) |
 # Game Theory
