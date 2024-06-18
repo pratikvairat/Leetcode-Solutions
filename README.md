@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [2481-strictly-palindromic-number](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
 # String
 |  |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0330-patching-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0330-patching-array) |
 | [0645-set-mismatch](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0853-most-profit-assigning-work](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0909-stone-game](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0909-stone-game) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1137-height-checker) |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0274-h-index](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0645-set-mismatch](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0853-most-profit-assigning-work](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
@@ -86,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0330-patching-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0330-patching-array) |
+| [0853-most-profit-assigning-work](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Brainteaser
@@ -117,3 +121,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
