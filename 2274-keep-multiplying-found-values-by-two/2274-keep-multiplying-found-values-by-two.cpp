@@ -1,12 +1,12 @@
 class Solution {
 public:
     int findFinalValue(vector<int>& nums, int original) {
-        unordered_map<int,int> mp;
-        for(auto i:nums){
+        vector<int> mp(10000+1,0);
+        for (auto i : nums) {
             mp[i]++;
         }
-        while(mp[original]){
-            original=2*original;
+        while (mp[original]) {
+            original = 2 * original;
         }
         return original;
     }
