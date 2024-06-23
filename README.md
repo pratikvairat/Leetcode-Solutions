@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1217-relative-sort-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2428-equal-row-and-column-pairs](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 # Queue
 |  |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2428-equal-row-and-column-pairs](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [3429-special-array-i](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3429-special-array-i) |
 # Math
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 # Counting Sort
 |  |
 | ------- |
@@ -130,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Simulation
 |  |
 | ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2428-equal-row-and-column-pairs](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 # Binary Search
