@@ -154,17 +154,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0538-convert-bst-to-greater-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0365-water-and-jug-problem](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0365-water-and-jug-problem) |
+| [0538-convert-bst-to-greater-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0538-convert-bst-to-greater-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Breadth-First Search
 |  |
@@ -198,4 +201,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Binary Search Tree
 |  |
 | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
