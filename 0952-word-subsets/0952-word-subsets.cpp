@@ -3,7 +3,7 @@ class Solution {
 public:
     unordered_map<char, int> mp1;
     bool isSubset(string str) {
-        map<char, int> count;
+        unordered_map<char, int> count;
         for (auto ch : str) {
             count[ch]++;
         }
@@ -19,7 +19,7 @@ public:
         vector<string> ans;
 
         for (auto& word : words2) {
-            map<char, int> count;
+            unordered_map<char, int> count;
             for (auto ch : word) {
                 count[ch]++;
             }
