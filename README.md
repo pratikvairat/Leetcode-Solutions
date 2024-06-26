@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0330-patching-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0330-patching-array) |
 | [0853-most-profit-assigning-work](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Brainteaser
 |  |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0538-convert-bst-to-greater-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
@@ -163,12 +165,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0365-water-and-jug-problem](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0538-convert-bst-to-greater-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0538-convert-bst-to-greater-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -203,3 +207,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
