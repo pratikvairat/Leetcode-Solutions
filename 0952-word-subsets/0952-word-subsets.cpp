@@ -1,7 +1,7 @@
 
 class Solution {
 public:
-    map<char, int> mp1;
+    unordered_map<char, int> mp1;
     bool isSubset(string str) {
         map<char, int> count;
         for (auto ch : str) {
