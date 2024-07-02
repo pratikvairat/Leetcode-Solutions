@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0344-reverse-string](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [2481-strictly-palindromic-number](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0952-word-subsets](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0952-word-subsets) |
@@ -48,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0274-h-index](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0330-patching-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0330-patching-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0853-most-profit-assigning-work](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0909-stone-game](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0909-stone-game) |
@@ -88,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0274-h-index](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0274-h-index) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0853-most-profit-assigning-work](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -208,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Binary Search Tree
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
