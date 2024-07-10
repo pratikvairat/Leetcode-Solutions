@@ -9,7 +9,7 @@ public:
                     cnt=0;
                 }
             }else if(i=="./"){
-                
+                continue ;
             }else{
                 cnt++;
             }
