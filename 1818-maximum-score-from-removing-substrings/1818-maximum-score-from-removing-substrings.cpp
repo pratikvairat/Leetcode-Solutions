@@ -1,17 +1,17 @@
 class Solution {
 public:
     int pointsScored(string &s,string s1,int x){
-        int points=0,n=s.size();
+        int points=0;
         stack<char> st;
-        for(int i=0;i<n;i++){
+        for(auto i: s){
             if(st.size()==0){
-                st.push(s[i]);
+                st.push(i);
             }else{
-                if(s[i]==s1[1] && st.top()==s1[0]){
+                if(i==s1[1] && st.top()==s1[0]){
                     st.pop();
                     points+=x;
                 }else{
-                    st.push(s[i]);
+                    st.push(i);
                 }
             }
         }
