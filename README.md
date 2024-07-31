@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0948-sort-an-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1196-filling-bookcase-shelves) |
+| [1333-sort-the-jumbled-numbers](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1511-count-number-of-teams) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0726-number-of-atoms](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0948-sort-an-array) |
+| [1333-sort-the-jumbled-numbers](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2846-robot-collisions](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2846-robot-collisions) |
