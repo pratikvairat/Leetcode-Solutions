@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool canBeEqual(vector<int>& target, vector<int>& arr) {
-        map<int,int> mp1,mp2;
+        unordered_map<int,int> mp1,mp2;
         if(target.size()!=arr.size()){
             return false;
         }
