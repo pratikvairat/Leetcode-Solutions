@@ -282,12 +282,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [1642-water-bottles](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -296,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0726-number-of-atoms](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [1720-crawler-log-folder](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
