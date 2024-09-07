@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -340,17 +341,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
+| [1484-linked-list-in-binary-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Matrix
 |  |
@@ -414,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
+| [1484-linked-list-in-binary-tree](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
 |  |
