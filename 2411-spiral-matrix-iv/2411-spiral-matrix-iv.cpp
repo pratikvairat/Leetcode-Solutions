@@ -11,47 +11,27 @@
 class Solution {
 public:
     vector<vector<int>> spiralMatrix(int m, int n, ListNode* head) {
-        vector<vector<int>> ans (m,vector<int> (n));
-        for(int k=0;k<m;k++){
-            fill(ans[k].begin(), ans[k].end(),-1);;
+        vector<vector<int>> vec(m, vector<int>(n, -1));
+        int i = 0, j = 0, p = 0;
+        int top = 0, bottom = m - 1, left = 0, right = n - 1;
+
+        ListNode* temp = head;
+        vector<vector<int>> dir = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
+        int d = 0;
+        while (temp != NULL) {
+            vec[i][j] = temp->val;
+            temp = temp->next;
+            int ni = i + dir[d][0], nj = j + dir[d][1];
+            if (ni > bottom || nj < top || nj > right || ni < left ||
+                vec[ni][nj] != -1) {
+                
+                d = (d + 1) % 4;
+                ni = i + dir[d][0];
+                nj = j + dir[d][1];
+            }
+            i = ni;
+            j = nj;
         }
-        ListNode* itr = head;
-        int i=0,j=0;
-        int t=0,l=0,r=n-1,d=m-1;
-        while(itr!=NULL){
-            for(i=t,j=l;j<=r;j++){
-                if(itr==NULL){
-                    return ans;
-                }
-                ans[i][j]=itr->val;
-                itr=itr->next;
-            }
-            t++;
-            for(i=t,j=r;i<=d;i++){
-                if(itr==NULL){
-                    return ans;
-                }
-                ans[i][j]=itr->val;
-                itr=itr->next;
-            }
-            r--;
-            for(i=d,j=r;j>=l;j--){
-                if(itr==NULL){
-                    return ans;
-                }
-                ans[i][j]=itr->val;
-                itr=itr->next;
-            }
-            d--;
-            for(i=d,j=l;i>=t;i--){
-                if(itr==NULL){
-                    return ans;
-                }
-                ans[i][j]=itr->val;
-                itr=itr->next;
-            }
-            l++;            
-        }
-        return ans;
+        return vec;
     }
 };
