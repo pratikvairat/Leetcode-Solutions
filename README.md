@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [1720-crawler-log-folder](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -341,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -406,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0948-sort-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
@@ -451,4 +455,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
