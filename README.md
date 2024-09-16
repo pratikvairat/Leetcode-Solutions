@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0906-walking-robot-simulation](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0948-sort-an-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -300,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [1642-water-bottles](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2155-find-missing-observations) |
@@ -318,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1720-crawler-log-folder](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
