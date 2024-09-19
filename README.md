@@ -304,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [1642-water-bottles](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1642-water-bottles) |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -324,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
@@ -430,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [1196-filling-bookcase-shelves](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1511-count-number-of-teams) |
@@ -486,4 +490,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
