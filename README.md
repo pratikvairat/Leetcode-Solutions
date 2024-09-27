@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0906-walking-robot-simulation](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0948-sort-an-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -479,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Union Find
 |  |
@@ -498,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Brainteaser
@@ -532,12 +535,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
