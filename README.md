@@ -344,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -372,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0906-walking-robot-simulation](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -485,10 +487,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
