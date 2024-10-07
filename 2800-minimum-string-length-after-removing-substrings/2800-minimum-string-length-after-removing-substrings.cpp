@@ -16,11 +16,7 @@ public:
                 st.push(s[i]);
             }
         }
-        string ans = "";
-        while (!st.empty()) {
-            ans += st.top();
-            st.pop();
-        }
-        return ans.size();
+        
+        return st.size();
     }
 };
