@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0455-assign-cookies](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0455-assign-cookies](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -279,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0455-assign-cookies](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0948-sort-an-array) |
@@ -500,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1923-sentence-similarity-iii) |
