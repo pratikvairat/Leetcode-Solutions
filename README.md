@@ -523,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0729-my-calendar-i](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -597,4 +598,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
