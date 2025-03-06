@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2755-extra-characters-in-a-string](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2846-robot-collisions](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2846-robot-collisions) |
+| [3227-find-missing-and-repeated-values](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Greedy
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2645-pass-the-pillow](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3227-find-missing-and-repeated-values](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -406,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2306-create-binary-tree-from-descriptions](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2755-extra-characters-in-a-string) |
+| [3227-find-missing-and-repeated-values](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Tree
@@ -438,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Graph
 |  |
 | ------- |
