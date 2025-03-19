@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Greedy
 |  |
 | ------- |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0859-design-circular-deque](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String
 |  |
 | ------- |
@@ -517,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0567-permutation-in-string](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -552,12 +555,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Brainteaser
 |  |
 | ------- |
