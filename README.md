@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Greedy
 |  |
@@ -453,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2171-second-minimum-time-to-reach-destination](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -543,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Number Theory
 |  |
 | ------- |
@@ -555,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
