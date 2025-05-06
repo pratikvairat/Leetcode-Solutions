@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1923-sentence-similarity-iii](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2048-build-array-from-permutation](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2048-build-array-from-permutation](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/2155-find-missing-observations) |
