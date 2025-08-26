@@ -12,10 +12,7 @@ public:
             }else if(dia==curDia){
                 ans=max(ans,i[0]*i[1]);
                 dia=curDia;
-            }else{
-                dia=curDia;
             }
-
         }
         return ans;
     }
