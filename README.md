@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0134-gas-station](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0455-assign-cookies) |
@@ -406,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0432-all-oone-data-structure](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
