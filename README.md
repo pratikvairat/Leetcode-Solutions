@@ -367,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0726-number-of-atoms](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [1720-crawler-log-folder](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
