@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0179-largest-number) |
@@ -482,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0948-sort-an-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -514,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [1196-filling-bookcase-shelves](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1196-filling-bookcase-shelves) |
