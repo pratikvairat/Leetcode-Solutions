@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
@@ -297,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
@@ -413,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0432-all-oone-data-structure](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
@@ -484,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -504,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/pratikvairat/Leetcode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
